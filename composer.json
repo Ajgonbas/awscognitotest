@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ApexApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Gonzalez",
+            "email": "ajgonbas@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.316"
+    }
+}
